@@ -13,6 +13,11 @@
     <img src="https://img.shields.io/badge/Discord-purple?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
   </a>
 </div>
+<br>
+<div id="badges" align="center">
+  <img src="https://komarev.com/ghpvc/?username=Neno-Craig17&style=flat-square&color=blue" alt=""/>
+</div>
+<br>
 
 
 
