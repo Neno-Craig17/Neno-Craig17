@@ -1,6 +1,18 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExenA3dHMwdGl5Y2FhNG8zb3F3ZHY4eWNxem9yMHA2OWFvN2w5cXd0dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/eMJXDJqSOVzQjFJ8Wv/giphy.gif"/>
 </div>
+<br>
+<div id="badges" align="center">
+  <a href="your-linkedin-URL">
+    <img src="https://img.shields.io/badge/LinkedIn-silver?style=for-the-badge&logo=linkedin&logoColor=black" alt="LinkedIn Badge"/>
+  </a>
+  <a href="your-github-URL">
+    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
+  </a>
+  <a href="your-twitter-URL">
+    <img src="https://img.shields.io/badge/Discord-purple?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
+  </a>
+</div>
 
 
 
