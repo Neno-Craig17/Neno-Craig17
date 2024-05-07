@@ -18,6 +18,17 @@
   <img src="https://komarev.com/ghpvc/?username=Neno-Craig17&style=flat-square&color=blue" alt=""/>
 </div>
 <br>
+<h1 align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXNmaWU4bjdsMnY2NHhzeTdsYnE3OGNzdXNyczFobmIzOWlqOHEwbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/UivD8bWmSe2JX7y0Qa/giphy.gif" width="40px"/> 
+  Hello! I'm Neno. Welcome to My GitHub Profile
+</h1>
+<div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMW1qbzJlMWQ4aGg3bTBiMm43dXJheXZldWtjM2F2dGNia2d1aHF1aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/juua9i2c2fA0AIp2iq/giphy.gif" width="700" height="600"/> 
+</div>
+
+---
+
+### 👩🏾‍💻 About Me :
 
 
 
@@ -32,7 +43,7 @@
 
 
 
-- 👋 Hi, I’m @Neno-Craig17, AKA Shaeneno Craig. But my preferred name is Neno
+
 - 👩🏾‍💻 I'm a Web Developer/Designer
 - 👀 I’m interested in anything UI/UX Design, Web Design and Web Development
 - 🌱 I’m currently learning Backend Web Development
