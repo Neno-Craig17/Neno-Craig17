@@ -27,15 +27,19 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXNmaWU4bjdsMnY2NHhzeTdsYnE3OGNzdXNyczFobmIzOWlqOHEwbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/UivD8bWmSe2JX7y0Qa/giphy.gif" width="40px"/> 
   Hello, I'm Neno. Welcome to My GitHub Profile!
 </h1>
-<br>
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2dhMm5nZmltMjl1am9pbHdqaTEzYm5pZmtzNGh3eng3NHB5bzRqMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/kWjTXzxYmoqFcmOPrn/giphy.gif" width="700" height="600"/> 
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmo5ZmpiMmg2eWd6aHloYXJoNTRreDNxcHpud243cjdmdnExYmZlbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/P94m6KtvPbPHzlShJu/giphy.gif" width="100" height="150"/> 
+    <img src="https://media.giphy.com/media/jPsraWbk0eJHxp474l/giphy.gif" width="100" height="150"/> 
+    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGZpaXlsN2NsMnh1N3E0N2llMHQ3b2ptb2dnZTIxb2l4c2x6ZTQzbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Civ55Gum6LlE51sOwD/giphy.gif" width="100" height="150"/>
+    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExazlmOXdwZnY4OXZpdjR1ZzJsajl0MDhmaTdxZTRjOGxzaTlwMWZxeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/RMZaqrIlIarFmBrTt9/giphy.gif" width="100" height="150"/> 
+    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2FkZmF6NG5zdDQ5amUyM25mMXgwcmw0cWk3NHkzeGhranR4aGVwZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/1qeMVoOlGWcL0CIYw3/giphy.gif" width="100" height="150"/> 
+    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDdxbW1ubXFxOHE1cTdjbGM4N2psMnU1a2c0cXN5ZjdjYm1wZ3V1aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/PfhZ7GNIOkFxGDy4AH/giphy.gif" width="100" height="150"/> 
 </div>
 
 ---
 
 ### 👩🏾‍💻 About Me :
-I am a Frontend Web Developer <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXVldHlkZ2pyOWxqMXludXV1azJ0N25tY3FjNDFtaDl2Ymc0MnhleSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/dMLmQfCO7lCA2gX3tw/giphy.gif" width="40"> from Dallas, TX. 
+I am a Frontend Web Developer from Dallas, TX <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXVldHlkZ2pyOWxqMXludXV1azJ0N25tY3FjNDFtaDl2Ymc0MnhleSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/dMLmQfCO7lCA2gX3tw/giphy.gif" width="40">
 
 - 👩🏾‍💻 I'm currently working as a Web Development and Design Team Lead contributing to web development projects for different clients
 - 👀 I’m interested in anything UI/UX Design, Web Design and Web Development
