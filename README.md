@@ -25,11 +25,11 @@
 <br>
 <h1 align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXNmaWU4bjdsMnY2NHhzeTdsYnE3OGNzdXNyczFobmIzOWlqOHEwbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/UivD8bWmSe2JX7y0Qa/giphy.gif" width="40px"/> 
-  Hello! I'm Neno. Welcome to My GitHub Profile
+  Hello, I'm Neno. Welcome to My GitHub Profile!
 </h1>
 <br>
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMW1qbzJlMWQ4aGg3bTBiMm43dXJheXZldWtjM2F2dGNia2d1aHF1aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/juua9i2c2fA0AIp2iq/giphy.gif" width="700" height="600"/> 
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2dhMm5nZmltMjl1am9pbHdqaTEzYm5pZmtzNGh3eng3NHB5bzRqMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/kWjTXzxYmoqFcmOPrn/giphy.gif" width="700" height="600"/> 
 </div>
 
 ---
