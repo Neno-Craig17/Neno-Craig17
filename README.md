@@ -1,6 +1,4 @@
-<p align="center">
-    <img src="pink-90s-aesthetic-x2i9y8jjvje2hu5b.jpg"/>
-</p align="center">
+
 
 
 <div id="header" align="center">
