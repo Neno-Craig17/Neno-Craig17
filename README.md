@@ -65,17 +65,9 @@ I am a Frontend Web Developer from Dallas, TX <img src="https://media.giphy.com/
 
 ### :fire: My Stats :
 
-<p align = "center">
-  <img  src = "https://github-readme-stats.vercel.app/api?username=Neno-Craig17&show_icons=true&theme=radical&line_height=25">
-</p>
-<br>
-<p align = "center">
- <img  src="https://github-readme-streak-stats.herokuapp.com/?user=Neno-Craig17&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
-</p> 
-<br>
-<p align = "center">
-<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Neno-Craig17&hide=html,css&theme=radical">
-</p> 
+![Neno-Craig17's Stats](https://github-readme-stats.vercel.app/api?username=Neno-Craig17&theme=radical&show_icons=true&hide_border=true&count_private=true)
+![Neno-Craig17's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Neno-Craig17&theme=radical&hide_border=true)
+![Neno-Craig17's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Neno-Craig17&theme=radical&show_icons=true&hide_border=true&layout=compact)
 
 
 
